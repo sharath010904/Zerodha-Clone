@@ -36,9 +36,12 @@ function Navbar() {
           <ul className="navbar-nav mb-lg-0">
 
             <li className="nav-item">
-              <Link className="nav-link active" to="/signup">
-                Signup
-              </Link>
+              <a
+  className="nav-link active"
+  href="https://zerodha-clone-1-et6x.onrender.com/"
+>
+  Signup
+</a>
             </li>
 
             <li className="nav-item">
